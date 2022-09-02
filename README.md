@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhi182001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi182001" /> </p>
 
+- 🔭 I’m currently working on **React JS projects**
+
+- 🌱 I’m currently learning **React JS and blockchain**
+
+- 👯 I’m looking to collaborate on **React JS and Web 3.0 projects**
+
 - 📫 How to reach me **kediashubhi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GUXmVsPn1](https://drive.google.com/file/d/1GUXmVsPn1)
@@ -11,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubhi kedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhi kedia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhi-kedia-5616581b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhi-kedia-5616581b4" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhi_kedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhi_kedia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubhi_kedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhi_kedia" height="30" width="40" /></a>
 </p>

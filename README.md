@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kediashubhi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GUXmVsPn1](https://drive.google.com/file/d/1GUXmVsPn1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A0_gAy1HjxBgB33TiYiZeNwIuY6K4em_/view?usp=sharing](https://drive.google.com/file/d/1A0_gAy1HjxBgB33TiYiZeNwIuY6K4em_/view?usp=sharing)
 
 - ⚡ Fun fact **I love to sleep :)**
 

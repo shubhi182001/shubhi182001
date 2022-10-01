@@ -20,7 +20,13 @@
   </a>  
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhi182001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi182001" /> </p>
+<h2> 📍 &nbsp;Visitor's Count:</h2>
+<a align="center" href="https://profile-counter.glitch.me/{shubhi182001}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{shubhi182001}/count.svg)  
+</a>
+
+# 📊 Github Activity:
 
 <table>
   <tr>

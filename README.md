@@ -9,6 +9,10 @@
 <p align="center"> 
 <a href="https://www.instagram.com/shubhi_kedia/"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://linkedin.com/in/shubhi-kedia-5616581b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhi-kedia-5616581b4" height="30" width="40" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="https://www.leetcode.com/shubhi_kedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhi_kedia" height="30" width="40" /></a>
+  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhi182001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi182001" /> </p>

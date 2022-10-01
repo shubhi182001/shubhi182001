@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shubhi kedia</h1>
-<h3 align="center">I am a frontend developer with React JS, currently exploring techs like Web 3.0. I am a passionate developer always up for new roles!</h3>
+<h3 align="center">
+  Welcome to Shubhi Kedia's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhi182001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi182001" /> </p>
 

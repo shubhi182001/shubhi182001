@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer+using+React+JS;Exploring+Blockchain+and+Web+3.0;Always+Learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center"> 
 <a href="https://instagram.com/shubhi_kedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhi_kedia" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

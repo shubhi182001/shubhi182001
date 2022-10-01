@@ -15,7 +15,8 @@
   <a href="https://drive.google.com/file/d/1KjJeNSDQ-nzi0g6LfB93bOcpDc8SjDNG/view?usp=sharing" target= "blank"><img align="center" width="40px" height="30" alt="Dev.to"  src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://www.leetcode.com/shubhi_kedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhi_kedia" height="30" width="40" /></a>
-  
+  <a href="kediashubhi@gmail.com" target="blank"><img align="center" width="40px" height="30" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> 
+  </a>  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhi182001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi182001" /> </p>

@@ -6,6 +6,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer+using+React+JS;Exploring+Blockchain+and+Web+3.0;Always+Learning+new+things" alt="Typing SVG" /></a>
 </p>
 
+<p align="center"> 
+<a href="https://www.instagram.com/shubhi_kedia/"><img width="32px" alt="Instagram" title="Instagram" src="![icons8-instagram-48](https://user-images.githubusercontent.com/95901799/193394161-3e1e1ef1-37c6-46cb-8a53-ac098931d9a4.png)
+"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhi182001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi182001" /> </p>
 
 - 🔭 I’m currently working on **React JS projects**

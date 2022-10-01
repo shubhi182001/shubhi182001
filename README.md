@@ -7,8 +7,7 @@
 </p>
 
 <p align="center"> 
-<a href="https://www.instagram.com/shubhi_kedia/"><img width="32px" alt="Instagram" title="Instagram" src="![icons8-instagram-48](https://user-images.githubusercontent.com/95901799/193394161-3e1e1ef1-37c6-46cb-8a53-ac098931d9a4.png)
-"/></a>
+<a href="https://www.instagram.com/shubhi_kedia/"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 

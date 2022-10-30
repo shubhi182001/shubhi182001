@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://linkedin.com/in/shubhi-kedia-5616581b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhi-kedia-5616581b4" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://drive.google.com/file/d/1KjJeNSDQ-nzi0g6LfB93bOcpDc8SjDNG/view?usp=sharing" target= "blank"><img align="center" width="40px" height="30" alt="Dev.to"  src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://drive.google.com/drive/folders/1tIz71W_h1jTJtgXvU5xowYFCRUL8lznU?usp=share_link" target= "blank"><img align="center" width="40px" height="30" alt="Dev.to"  src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://www.leetcode.com/shubhi_kedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhi_kedia" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
